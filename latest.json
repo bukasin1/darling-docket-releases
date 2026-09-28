@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "apk": {
+      "version": null,
+      "url": "https://github.com/bukasin1/darling-docket-releases/releases/latest/download/darling-docket.apk"
+    }
+  },
+  "ota": {
+    "version": "ve8bf792",
+    "url": "https://github.com/bukasin1/darling-docket-releases/releases/download/ota-ve8bf792/live-update-ve8bf792.zip"
+  }
+}
