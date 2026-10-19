@@ -7,8 +7,8 @@
     }
   },
   "ota": {
-    "version": "va97bb1d",
-    "url": "https://github.com/bukasin1/darling-docket-releases/releases/download/ota-va97bb1d/live-update-va97bb1d.zip",
-    "checksum": "e3d37dbdc1d90d5da87f2955aa2ac9932394464e1df21c26699a47b7f612c9f7"
+    "version": "v78640da",
+    "url": "https://github.com/bukasin1/darling-docket-releases/releases/download/ota-v78640da/live-update-v78640da.zip",
+    "checksum": "20f3a5976e7ff3a420e383d035f61d8d58d61ba03d547e711a1de62e57efa378"
   }
 }
